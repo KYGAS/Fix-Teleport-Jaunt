@@ -1,0 +1,11 @@
+{
+    "name": "FixBlinksPvP",
+    "author": "KYGAS",
+    "description": "Fix broken teleports in PvP.",
+    "disableAutoUpdate": false,
+    "options": {
+        "cliName": "FBPvP",
+        "guiName": "Fix Blinks in PvP"
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/Fix-Teleport-Jaunt/master/"]
+}
